@@ -5,4 +5,4 @@
 - 📫 Contate-me no e-mail: tsjesus44@hotmail.com
 - ⚡ Fun fact: já fui dev backend e frontend 😂
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0liveira-mateus&layout=compact)](https://github.com/0liveira-mateus/automacao-simplificada)
+![Mateus Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=0liveira-mateus&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0liveira-mateus&layout=compact)](https://github.com/0liveira-mateus/automacao-simplificada)
